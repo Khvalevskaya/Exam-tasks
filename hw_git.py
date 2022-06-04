@@ -10,8 +10,28 @@ print(text)
 #     print(i, '-', a.count(i) // 2)
 # print('Пар в списке: ', p)
 
-text1 = "Для списка"
-print(text1)
-a = [1, 1, 1, 1, 3, 2, 3, 6]
-for i in set(a):
-    print(i, "-", a.count(i) // 2)
+# text1 = "Для списка"
+# print(text1)
+# a = [1, 1, 1, 1, 3, 2, 3, 6]
+# for i in set(a):
+#     print(i, "-", a.count(i) // 2)
+
+text2 = "Решение со словарем"
+print(text2)
+# a = [1, 1, 2, 4, 2, 3, 5, 2, 6, 2, 1, 3, 5]
+# a.sort()
+# print(a)
+# r = 0
+# dict = {}
+# set_new = []
+# for i in set(a):
+#     print(i, "-", a.count(i) // 2)
+#     r += a.count(i) // 2
+#     res = a.count(i) // 2
+#     set_new.append(res)
+#     if dict.get(res):
+#         dict[res] += 1
+#     else:
+#         dict[res] = 1
+# print(dict)
+# print(r)
